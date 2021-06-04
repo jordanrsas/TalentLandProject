@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="center"
+    ohos:orientation="vertical">
+
+    <Button
+        ohos:id="$+id:select_device_button"
+        ohos:height="45vp"
+        ohos:width="match_parent"
+        ohos:background_element="$graphic:button_background"
+        ohos:layout_alignment="horizontal_center"
+        ohos:margin="18vp"
+        ohos:text="Selecciona un dispositivo"
+        ohos:text_size="$float:button_text_size"/>
+</DirectionalLayout>
