@@ -60,9 +60,6 @@
       },
       {
         "name": "ohos.permission.DISTRIBUTED_DATASYNC"
-      },
-      {
-        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING"
       }
     ]
   }
